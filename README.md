@@ -14,7 +14,7 @@ The game is a two-player game where players take turns to either place a piece o
 - `Board.cpp`: Implementation file for the Board class.
 - `Player.h`: Header file for the Player class.
 - `Player.cpp`: Implementation file for the Player class.
-- `main.cpp`: Main file that includes the game implementation and usage of the classes.
+- `main.cpp`: Main file that includes the game implementation and usage of the classes. (already given by professor)
 
 ## Classes
 
